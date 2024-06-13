@@ -1,5 +1,5 @@
 # Advent of Code 2023. Day 1 solution.
-### Author: Emil Talybov [emital-developer](https://github.com/emital-developer) 
+### Author: Emil [emital-developer](https://github.com/emital-developer) 
 
 This is my [Advent of Code](https://adventofcode.com/) (AoC) puzzle solution for the day 1.
 
